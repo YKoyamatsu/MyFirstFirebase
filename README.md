@@ -1,1 +1,3 @@
 # MyFirstFirebase
+
+とりあえずFireBaseを使ってなにかiosのアプリを作ろうぜーーてきなやつです
